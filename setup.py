@@ -14,7 +14,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setuptools.setup(
-    name="pecli",
+    name="parallelencodecli",
     version="0.1.3",
     author="Parallel Encoders",
     author_email="eli.stonium@gmail.com",
