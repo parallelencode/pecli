@@ -1,0 +1,7 @@
+numpy
+tqdm
+psutil
+scipy
+matplotlib
+fuzzywuzzy
+parallelencode
